@@ -9,7 +9,7 @@ Javatari = {
     PRESETS:                        "",                         // Configuration Presets to apply. See Presets Configuration
 
     // Full or relative URL of Media files to load
-    CARTRIDGE_URL:                  "Pepsi.bin",
+    CARTRIDGE_URL:                  "https://c4pt000.github.io/Pepsi.bin",
     AUTODETECT_URL:                 "",
     STATE_URL:                      "",
 
